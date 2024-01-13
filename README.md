@@ -1,4 +1,5 @@
-<p align="center" alt="Hi 👋, I am Darshil Padmani" width="100%" src="https://github.com/DarshilPadmani/Protfolio.git">
+<img align="center" alt="Hi 👋, I am Darshil Padmani" width="400" src="https://github.com/DarshilPadmani/Protfolio.git">
+
 
 
 <h3 align="left">Connect with me:</h3>
