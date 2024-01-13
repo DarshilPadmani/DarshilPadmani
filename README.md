@@ -1,6 +1,4 @@
-<img align="center" alt="Hi 👋, I am Darshil Padmani" width="100%" src="https://github.dev/DarshilPadmani/Protfolio/blob/main/dp.png">
-
-
+<img align="center" alt="Hi 👋, I am Darshil Padmani" width="1000" src="https://github.com/DarshilPadmani/Protfolio/commit/faded123e803a7fdc53cb600bbfac0c5eba16b91">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
