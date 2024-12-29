@@ -1,4 +1,4 @@
-<img align="center" alt="Hi 👋, I am Darshil Padmani" width="1000" src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/Untitled%20design.png">
+<img align="center" alt="Hi 👋, I am Darshil Padmani" width="1000" src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/LinkedIn.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
