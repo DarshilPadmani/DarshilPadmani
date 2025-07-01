@@ -1,74 +1,108 @@
-<img align="center" width="1000" src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/LinkedIn.png" alt="Hi 👋, I'm Darshil Padmani" />
+<!-- Banner Image -->
+<img src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/LinkedIn.png" align="center" width="100%" alt="Hi 👋, I'm Darshil Padmani" />
 
----
-
-<h1 align="center">Hi 👋, I'm Darshil Padmani</h1>
-<h3 align="center">Full Stack Developer | AR/VR Creator | Problem Solver</h3>
+<h1 align="center">🚀 Darshil Padmani</h1>
+<h3 align="center">💻 Full Stack Developer | 🧠 AI & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
 
 <p align="center">
-🚀 Final-year Computer Engineering student with hands-on experience in building scalable full stack applications and immersive AR/VR experiences. <br>
-⚡ I love merging creativity with code to build solutions that make a real impact — from virtual try-ons to full-featured e-commerce platforms. <br>
-🌱 Currently sharpening my DSA skills and preparing for placements while pushing limits in development and tech entrepreneurship.
-</p>
-
----
-
-### 🧠 Tech Stack & Tools
-
-#### 💻 Programming Languages & Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
-
-#### 🎨 AR/VR & Design Tools
-<p align="left">
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-</p>
-
-#### ☁️ Cloud & Others
-<p align="left">
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/darshil-padmani/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/darshil-padmani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Darshil%20Padmani-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://www.leetcode.com/darshilpadmani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="Leetcode"/>
+  <a href="https://www.leetcode.com/darshilpadmani" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-DarshilPadmani-orange?logo=leetcode&style=for-the-badge" />
+  </a>
+  <a href="mailto:darshilpadmani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-darshilpadmani@gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 About Me
 
+🎓 Final-year Computer Engineering student | PDEU Gandhinagar  
+🛠️ I build full-stack applications, design immersive AR/VR experiences, and solve real-world problems with code  
+🎯 Currently preparing for placements, solving DSA, and working on futuristic tech  
+💡 Interested in product building, entrepreneurship, and impactful software  
+
+> _"Not just a developer. A product thinker who codes ideas into impact."_
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔷 Programming Languages & Frameworks
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshilpadmani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+### 🧠 AR/VR & Creative Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+</p>
+
+### 📊 Data Science & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## 📈 GitHub Stats
 
-> "I'm not just writing code. I'm crafting future-ready tech experiences."
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshilpadmani&theme=tokyonight" alt="Streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshilpadmani&show_icons=true&theme=tokyonight&hide=stars&count_private=true" alt="Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshilpadmani&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
 
 ---
+
+## 🧑‍💼 Career Highlights
+
+- 👨‍💻 Internships in **AR/VR** at **IQTechMax** & **Aura Interact**
+- 🔁 Built **WebAR try-on experiences**, product configurators, and AR UI interactions
+- 💻 Created full-stack apps with **Next.js, Node.js, Express, MongoDB**
+- 🎯 Participated in multiple hackathons, workshops, and community challenges
+
+---
+
+## 📌 Projects (Coming Soon)
+
+> Want a visual portfolio here? Add GIFs or image previews of your top projects with links to GitHub or live demos.
+
+---
+
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/darshil-padmani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Darshil%20Padmani-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:darshilpadmani@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.leetcode.com/darshilpadmani" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><b>“Building today what people will use tomorrow.”</b></p>
 
