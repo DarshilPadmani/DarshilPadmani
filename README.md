@@ -84,7 +84,6 @@
 
 ## 📌 Projects (Coming Soon)
 
-> Want a visual portfolio here? Add GIFs or image previews of your top projects with links to GitHub or live demos.
 
 ---
 
