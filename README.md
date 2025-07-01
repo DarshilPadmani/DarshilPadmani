@@ -11,7 +11,7 @@
   <a href="https://www.leetcode.com/darshilpadmani" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-DarshilPadmani-orange?logo=leetcode&style=for-the-badge" />
   </a>
-  <a href="mailto:darshilpadmani@gmail.com" target="_blank">
+  <a href="mailto:darshilpadmani27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-darshilpadmani27@gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
