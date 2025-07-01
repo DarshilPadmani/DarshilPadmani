@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/LinkedIn.png" align="center" width="100%" alt="Hi 👋, I'm Darshil Padmani" />
+<img src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/I.png" align="center" width="100%" alt="Hi 👋, I'm Darshil Padmani" />
 
 <h1 align="center">🚀 Darshil Padmani</h1>
 <h3 align="center">💻 Full Stack Developer | 🧠 AI & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Leetcode-DarshilPadmani-orange?logo=leetcode&style=for-the-badge" />
   </a>
   <a href="mailto:darshilpadmani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-darshilpadmani@gmail.com-red?logo=gmail&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-darshilpadmani27@gmail.com-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
 
