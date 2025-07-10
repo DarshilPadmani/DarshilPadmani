@@ -2,7 +2,7 @@
 <img src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/I.png" align="center" width="100%" alt="Hi 👋, I'm Darshil Padmani" />
 
 <h1 align="center">🚀 Darshil Padmani</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 AI & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
+<h3 align="center">💻 Software Developer | 🧠 AI & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-padmani/" target="_blank">
