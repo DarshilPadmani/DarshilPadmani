@@ -2,7 +2,7 @@
 <img src="https://github.com/DarshilPadmani/DarshilPadmani/blob/main/I.png" align="center" width="100%" alt="Hi 👋, I'm Darshil Padmani" />
 
 <h1 align="center">🚀 Darshil Padmani</h1>
-<h3 align="center">💻 Software Developer | 🧠 AI & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
+<h3 align="center">💻 Software Developer | 🧠 AI/ML & AR/VR Enthusiast | 🎯 Creative Technologist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-padmani/" target="_blank">
@@ -75,15 +75,10 @@
 
 ## 🧑‍💼 Career Highlights
 
-- 👨‍💻 Internships in **AR/VR** at **IQTechMax** & **Aura Interact**
+- 👨‍💻 Internships in **AR/VR & Software Development** at  **FusionVR**, **IQTechMax** & **Aura Interact**
 - 🔁 Built **WebAR try-on experiences**, product configurators, and AR UI interactions
 - 💻 Created full-stack apps with **Next.js, Node.js, Express, MongoDB**
 - 🎯 Participated in multiple hackathons, workshops, and community challenges
-
----
-
-## 📌 Projects (Coming Soon)
-
 
 ---
 
